@@ -1,0 +1,123 @@
+[
+  {
+    "Title": "Sense and Sensibility",
+    "Author": "Jane Austen",
+    "Rating": 4,
+    "Editions": ["Audible", "Paperback"]
+  },
+  {
+    "Title": "Treasure Island",
+    "Author": "Robert Louis Stevenson",
+    "Rating": 5,
+    "Editions": ["Kindle", "Paperback"]
+
+  },
+  {
+    "Title": "Uncle Tom's Cabin",
+    "Author": "Harriet Beecher Stowe",
+    "Editions": ["Hardcover"]
+
+  },
+  {
+    "Title": "Peter Pan",
+    "Author": "J. Barrie",
+    "Rating": 4,
+    "Editions": ["Audible", "Paperback", "Kindle", "Hardcover"]
+
+  },
+  {
+    "Title": "The Adventures of Sherlock Holmes",
+    "Author": "Arthur Conan Doyle",
+    "Editions": ["Kindle", "Audible"]
+
+  },
+  {
+    "Title": "Moby Dick",
+    "Author": "Herman Melville",
+    "Rating": 2,
+    "Editions": ["Paperback", "Illustrated Edition", "Hardcover"]
+
+  },
+  {
+    "Title": "The Time Machine",
+    "Author": "H.G. Wells",
+    "Rating": 5,
+    "Editions": ["Hardcover", "Kindle"]
+
+  },
+  {
+    "Title": "Great Expectations",
+    "Author": "Charles Dickens",
+    "Rating": 4,
+    "Editions": ["Kindle", "Paperback"]
+
+  },
+  {
+    "Title": "A Tale of Two Cities",
+    "Author": "Charles Dickens",
+    "Rating": 3,
+    "Editions": ["Audible", "Paperback", "Hardcover"]
+
+  },
+  {
+    "Title": "Romeo and Juliet",
+    "Author": "W. Shakespeare",
+    "Rating": 5,
+    "Editions": ["Hardcover", "Paperback"]
+
+  },
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Rating": 3,
+    "Editions": ["Hardcover", "Paperback", "Audible"]
+
+  },
+  {
+    "Title": "The War of the Worlds",
+    "Author": "H.G. Wells",
+    "Rating": 3,
+    "Editions": ["Audible", "Paperback", "Hardcover"]
+
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "Rating": 4,
+    "Editions": ["Audible", "Paperback"]
+
+  },
+  {
+    "Title": "The  Adventures of Huckleberry Finn",
+    "Author": "Mark Twain",
+    "Rating": 5
+  },
+  {
+    "Title": "The Island of Doctor Moreau",
+    "Author": "H.G. Wells",
+    "Rating": 4,
+    "Editions": ["Paperback"]
+
+  },
+  {
+    "Title": "The Wealth of Nations",
+    "Author": "Adam Smith",
+    "Rating": 3
+  },
+  {
+    "Title": "Around the World in Eighty Days",
+    "Author": "Jules Vernes"
+  },
+  {
+    "Title": "The Junglebook",
+    "Author": "R. Kipling",
+    "Rating": 5,
+    "Editions": ["Audible", "Paperback", "Hardcover"]
+
+  },
+  {
+    "Title": "The Invisible Man",
+    "Author": "H.G. Wells",
+    "Rating": 5
+  }
+]
